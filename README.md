@@ -5,8 +5,6 @@ Making an online, React Application Based, IDE using POSTman
 
     How to run?
 
-    Open postman and provide the url  localhost://5000/run select body and provide key and value
-
     open vs code cd into backend and write npm start run to start the backend server
 
     then cd into frontend and write npm start
