@@ -1,14 +1,11 @@
 # Online_IDE
 Making an online, React Application Based, IDE using POSTman
 
-<!-- 
+**How to run?
+1. open vs code cd into backend and write npm start run to start the backend server
+2. cd into frontend and write npm start to start the application
 
-    How to run?
-
-    open vs code cd into backend and write npm start run to start the backend server
-
-    then cd into frontend and write npm start
-
+<!--
     1. Created a backend folder for all codes of REST APIs
     2. npm init in this folder, leave everything to default.
     3.Contains everything for the MetaData for the project.
