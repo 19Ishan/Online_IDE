@@ -2,7 +2,7 @@
 Making an online, React Application Based, IDE using POSTman
 
 How to run?
-1. open vs code cd into backend and write npm run start to start the backend server
+1. open vs code cd into backend and write npm run start (or node index.js) to start the backend server 
 2. cd into client and write npm start to start the application
 
 <!--
