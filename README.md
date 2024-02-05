@@ -2,8 +2,16 @@
 Making an online, React Application Based, IDE using POSTman
 
 How to run?
-1. open vs code cd into backend and write npm run start (or node index.js) to start the backend server 
-2. cd into client and write npm start to start the application
+1. Clone this repo locally in your machine
+2. Make sure you are in the folder named as Online_IDE. If not , cd online_IDE
+3. Run npm init in the terminal and leave everything to default
+4. Now run 3 commmands:- 
+   a) "npm install react-scripts --save"
+   b) "npm install --save uuid"
+   c) "npm install --save cors"
+5. Now cd backend, and run "npm start run". You should get a success message "Server is running on port 5000!!".
+6. Open another terminal and cd client, then run "npm install --save axios"
+7. Now run "npm start"
 
 <!--
     1. Created a backend folder for all codes of REST APIs
